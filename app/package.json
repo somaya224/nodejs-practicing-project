@@ -1,0 +1,19 @@
+{
+  "name": "node-practicing",
+  "version": "1.0.0",
+  "description": "uderstatnd how node.js works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/somaya224/nodejs-practicing-project.git"
+  },
+  "author": "Somaya Emara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somaya224/nodejs-practicing-project/issues"
+  },
+  "homepage": "https://github.com/somaya224/nodejs-practicing-project#readme"
+}
